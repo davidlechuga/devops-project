@@ -1,4 +1,5 @@
 applications:
-  name: Puppy_IC
+- name: holicrayoli
+  buildpack: https://github.com/cloudfoundry/nodejs-buildpack
   memory: 56M
   random-route: true
