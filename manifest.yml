@@ -1,0 +1,4 @@
+applications:
+  name: Puppy_IC
+  memory: 56M
+  random-route: true
